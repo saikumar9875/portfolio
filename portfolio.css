@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-right: 50px
+    
+}
+a{
+    text-decoration:none;
+}
+header{
+    background-color: pink;
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+}
+section3{
+    background-color: bisque;
+    
+}
+div{
+    background-color: aqua;
+}
+#one{
+    background-color:black;
+    color:rebeccapurple;
+}
